@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <slots>
+        <DIM number="3" mock="false" />
+        <AIM number="10" mock="false" />
+    </slots>
+    <network>
+        <ip>127.0.0.5</ip>
+        <port>12345</port>
+    </network>
+</root>
